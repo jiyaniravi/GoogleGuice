@@ -8,3 +8,6 @@ Guice allows implementation classes to be bound programmatically to an interface
 
 ## Trivia
 Being the first generic framework for dependency injection using Java annotations in 2008, Guice won the 18th Jolt Award for best Library, Framework, or Component.
+
+## Purpose of this project 
+is to learn about various features of Google Guice library with Unit Testing
