@@ -1,6 +1,6 @@
 # GoogleGuice
 
-## Brief about GoogleGuice library straight from Wiki
+## Brief about GoogleGuice library straight from the Wiki
 
 Google Guice (pronounced "juice") is an open-source software framework for the Java platform released by Google under the Apache License. It provides support for dependency injection using annotations to configure Java objects. Dependency injection is a design pattern whose core principle is to separate behavior from dependency resolution.
 
